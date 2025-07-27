@@ -1,0 +1,2 @@
+# StrategicScanning
+Strategic Scanning Class
